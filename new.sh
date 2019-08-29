@@ -1,4 +1,3 @@
-
 #usr/bin/bash
 clear
 bi='\033[34;1m' #biru
@@ -13,9 +12,9 @@ echo
 echo
 echo
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
-echo $i" |"$cy"     INDONESIA DARK TERMUX ASSOCIATE"$i"         |"
+echo $i" |"$cy"     NOBEJ DARK TERMUX ASSOCIATE"$i"         |"
 echo $i" |"$me"─────────────────────────────────────────────"$i"|"
-echo $i" |"$pu" AUTHOR :"$ku" RISKI DARMAWAN  [Bendoy22]"$i"          |"
+echo $i" |"$pu" AUTHOR :"$ku" RISKI DARMAWAN  [NOBEJ]"$i"          |"
 echo $i" |"$pu" FACEBOOK :"$ku" Riski Darmawan"$i"                   |"
 echo $i" |"$pu" THANKS TO :"$cy"~ [MR.P3RC1L] [MR.S∆MAx] [MR.B]"$i"  |"
 echo $i" |"$cy"            ~ [cyber] [%MR.S%] [AldykaPrygh]"$i" |"
@@ -48,7 +47,7 @@ echo $i"|"$me"18"$i" |"$cy" INSTALL BAHAN DULU COEG  "$i"|"$i"    |"$cy" E"$i" |
 echo $i"|"$me"19"$i" |"$cy" KELUAR/EXIT PROGRAM      "$i"|"$i"    |"$cy" N"$i" |"
 echo $i"────────────────────────────────    ─────"
 echo
-echo $me"┌==="$bi"["$i"Bendoy22"$bi"]"$me"======"$bi"["$i""Pilih Nomornya""$bi"]"
+echo $me"┌==="$bi"["$i"Bendoy"$bi"]"$me"======"$bi"["$i""Pilih Nomornya""$bi"]"
 echo $me"¦"
 read -p"└──# " pil
 
@@ -77,7 +76,7 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/Bendoy22/fb-brute
+git clone https://github.com/IqbalzNoobs/fb-brute
 cd fb-brute
 python2 brute.py
 fi
@@ -97,7 +96,7 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/Bendoy22/FaceBrute
+git clone https://github.com/N1ght420/FaceBrute
 cd FaceBrute
 python fb.py
 fi
@@ -107,7 +106,7 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/Bendoy22/facebash.git
+git clone https://github.com/thelinuxchoice/facebash.git
 cd facebash
 bash facebash.sh
 fi
