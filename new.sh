@@ -14,7 +14,7 @@ echo
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
 echo $i" |"$cy"     INDONESIA DARK TERMUX ASSOCIATE"$i"         |"
 echo $i" |"$me"─────────────────────────────────────────────"$i"|"
-echo $i" |"$pu" AUTHOR :"$ku" RISKI DARMAWAN  [Bendoy22]"$i"          |"
+echo $i" |"$pu" AUTHOR :"$ku" RISKI DARMAWAN  [FR13ND8]"$i"          |"
 echo $i" |"$pu" FACEBOOK :"$ku" Riski Darmawan"$i"                   |"
 echo $i" |"$pu" THANKS TO :"$cy"~ [MR.P3RC1L] [MR.S∆MAx] [MR.B]"$i"  |"
 echo $i" |"$cy"            ~ [cyber] [%MR.S%] [AldykaPrygh]"$i" |"
@@ -56,7 +56,7 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/Bendoy22/fbbrute
+git clone https://github.com/FR13ND8/fbbrute
 cd fbbrute
 php fb.php
 fi
@@ -66,7 +66,7 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/Bendoy22/Fb-Cracker-v.3
+git clone https://github.com/FR13ND8/Fb-Cracker-v.3
 cd Fb-Cracker-v.3
 python2 crack.py
 fi
@@ -86,7 +86,7 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/Bendoy22/mbf
+git clone https://github.com/FR13ND8/mbf
 cd mbf
 python2 MBF.py
 fi
@@ -116,7 +116,7 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/Bendoy22/EmailVuln
+git clone https://github.com/FR13ND8/EmailVuln
 cd EmailVuln
 python2 vuln.py
 fi
@@ -126,7 +126,7 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/Bendoy22/ProfileGuardFb
+git clone https://github.com/FR13ND8/ProfileGuardFb
 cd ProfileGuardFb
 php guard.php
 fi
@@ -157,7 +157,7 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/Bendoy22/InfoFB
+git clone https://github.com/FR13ND8/InfoFB
 cd InfoFB
 pip2 install -r requirements.txt
 python2 info.py
@@ -179,7 +179,7 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/Bendoy22/autolike
+git clone https://github.com/FR13ND8/autolike
 cd autolike
 php autolike.php
 fi
